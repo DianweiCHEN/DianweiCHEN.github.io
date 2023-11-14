@@ -1,1 +1,28 @@
 theme: jekyll-theme-cayman
+title: Dianwei Chen's CV
+description: This is the online CV for Dianwei Chen, showcasing education, projects, and skills.
+
+# URL settings
+# If you're hosting your site at a Project repository on GitHub pages (username.github.io/repository-name)
+baseurl: "/DianweiCHEN.github.io" # the subpath of your site, e.g. /blog
+url: "https://dianweichen.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Exclude from processing.
+# Any file or folder that should not be included in your published site should be listed here.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Plugins (if you have any plugins you want to use, they need to be listed here)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
