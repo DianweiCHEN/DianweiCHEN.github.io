@@ -54,7 +54,7 @@ interests:
 education:
   - area: PhD Civil and Environmental Engineering
     institution: University of Maryland, College Park
-    date_start: 2023-09-1
+    date_start: 2023-09-01
     date_end: 2027-05-31 (estimate)
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
