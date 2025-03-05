@@ -96,7 +96,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Backend Software Engineer
-    company_name: XPA: 3.4/4.0
+    company_name: XPA 3.4/4.0
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
